@@ -2,4 +2,4 @@
 
 ### SE AGREGA CHANGELOG
 
-### Se agregan cambios
+### Se agregan cambios 15/04/2025
